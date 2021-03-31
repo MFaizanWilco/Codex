@@ -104,7 +104,7 @@ locket==0.2.0
 Logbook==1.4.0
 lru-dict==1.1.6
 lunardate==0.2.0
-lxml==4.2.3
+lxml==4.6.3
 Mako==1.0.7
 Markdown==2.6.11
 MarkupSafe==1.0
