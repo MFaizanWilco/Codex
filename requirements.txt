@@ -55,7 +55,7 @@ fastcache==1.0.2
 fbprophet==0.4
 filelock==3.0.4
 Flask==1.0.2
-Flask-Cors==3.0.4
+Flask-Cors==3.0.9
 Flask-JWT-Extended==3.14.0
 Flask-MonitoringDashboard==2.0.6
 flask-paginate==0.5.1
